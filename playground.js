@@ -34,6 +34,8 @@ Array.from(ps).forEach(function (p) {
     }
 });
 
+// additional comment
+
 // const divs = document.querySelectorAll("div");
 // const searchText = "foo";
 // for (const div of divs) {
